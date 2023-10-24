@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LifeLike</string>
+    <string name="lifelike">LifeLike</string>
+    <string name="tu_bienestar_tu_vida_vamos_juntos">Tu Bienestar, Tu vida ¡Vamos juntos!</string>
+    <string name="text1">Iniciar Sesion con tu cuenta</string>
+    <string name="button1">Continuar</string>
+    <string name="text2">o</string>
+    <string name="button2">Continuar con Facebook</string>
+    <string name="button3">Continuar con Google</string>
+    <string name="text3">¿No tenes cuenta?</string>
+    <string name="text4">Registrate ahora</string>
+    <string name="button4">Registrarse</string>
+    <string name="newtext">Ejemplo Dinamica</string>
+</resources>
